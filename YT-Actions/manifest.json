@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "YouTube Actions",
   "version": "3.0",
-  "description": "Convert YouTube Shorts links to regular video links and Remove Play Button from YouTube Videos After Pausing. Made by Shifaau9",
+  "description": "Convert YouTube Shorts links to regular video links and Remove the Play Button from YouTube Videos After Pausing.  Made by Shifaau9",
   "permissions": ["activeTab", "tabs"],
   "icons": {
     "16": "icon16.png",
