@@ -1,4 +1,8 @@
+
+// Made By Shifaau9
+
 // Send a message to the content script to remove the element
+
 document.addEventListener('DOMContentLoaded', function () {
   const removeButton = document.getElementById('removeButton');
   if (removeButton) {
