@@ -1,4 +1,8 @@
+
+// Made By Shifaau9
+
 // Function to remove the specified element
+
 function removeElement(elementSelector) {
   const element = document.querySelector(elementSelector);
   if (element) {
